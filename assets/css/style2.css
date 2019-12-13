@@ -15,6 +15,10 @@ body {
     color: #ffffff;
 }
 
+.font-green {
+    color: #4aaaa5;
+}
+
 .navbar-brand {
     background-color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -29,7 +33,7 @@ body {
 .imageHolderText {
     width: 160px;
     height: 30px;
-    top: 70px;
+    top: 95px;
     bottom: 0px;
     left: 15px;
     right: 0px;
@@ -39,3 +43,6 @@ body {
     text-align: center;
     color: #ffffff;
 }
+
+
+
