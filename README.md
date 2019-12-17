@@ -16,7 +16,7 @@ Built With: Visual Studio Code
 
 Contributors: "criss-cross" background image from https://subtlepatterns.com/
 
-Versioning: 1.1
+Versioning: 1.2
 
 Authors: Jason Miller
 
