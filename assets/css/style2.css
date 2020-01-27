@@ -44,5 +44,29 @@ body {
     color: #ffffff;
 }
 
+.tooltiptext 
+{
+  visibility: hidden;
+  width: 160px;
+  height: 90px;
+  background-color: #777777;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  font-size: 12px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top:  -90px;
+  left: 0%;
+}
+
+.imageHolderText:hover .tooltiptext 
+{
+  visibility: visible;
+}
+
+
 
 
